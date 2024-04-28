@@ -1,4 +1,4 @@
-- 👋 Hi, I’m andileMostert
+- 👋 Hi, I’m andileMostert nad I am new in the IT industry, I dont have any deep experience
 - 👀 I’m interested in learning Java, Database Development & Azure
 - 🌱 I’m currently studying Full Stack Software Development 
 - 💞️ I’m looking to collaborate on any Java, MySQL and Azure Projects 
